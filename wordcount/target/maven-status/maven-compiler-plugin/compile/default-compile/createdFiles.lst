@@ -1,0 +1,6 @@
+META-INF\MANIFEST.MF
+WordCount$MyMapper.class
+WordCount$MyReduce.class
+META-INF\maven\com.blanckob.hadoop\wordcount\pom.properties
+WordCount.class
+META-INF\maven\com.blanckob.hadoop\wordcount\pom.xml
